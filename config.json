@@ -1,0 +1,15 @@
+{
+    "mail": {
+      "subject": "Сообщение с сайта",
+      "smtp": {
+        "host": "smtp.timeweb.ru",
+        "port": 465,
+        "secure": true,
+        "auth": {
+          "user": "test3@cms3.ru",
+          "pass": "mG32WHQP"
+        }
+      }
+    }
+  }
+  
